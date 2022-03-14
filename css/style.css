@@ -56,3 +56,29 @@ a {
 ul {
     padding-left: 20px;
 }
+
+/*tabella*/
+table {
+    border-collapse: collapse;
+}
+
+/*intestazione tabella*/
+#r1 {
+    background-color: rgb(84, 169, 226);
+    text-align: left;
+    color: white;
+}
+#colonna1 {
+    width: 25%;
+}
+#colonna2 {
+    width: 25%;
+}
+#colonna3 {
+    width: 50%;
+}
+
+/*corpo tabella*/
+#b-row {
+    background-color: rgb(135, 222, 248);
+}
