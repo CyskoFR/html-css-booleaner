@@ -80,5 +80,10 @@ table {
 
 /*corpo tabella*/
 #b-row {
-    background-color: rgb(135, 222, 248);
+    background-color: rgb(185, 236, 251);
+}
+
+/*footer immagini*/
+#desc-footer {
+color: grey;
 }
