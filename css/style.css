@@ -1,3 +1,33 @@
 body {
-    background-color: aqua;
+    margin-top: 0px;
+}
+.container {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+/*banner logo*/
+#logobox {
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-position: top;
+    background-size: 390px;
+    background-color: rgb(100, 171, 237);
+}
+#logo {
+    height: 50px;
+    position: relative;
+    margin-top: 40px;
+}
+#credit {
+    font-size: 18px;
+    color: grey;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 153, 255);
+}
+#date {
+    font-size: 12px;
+    color: grey;
 }
