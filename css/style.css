@@ -51,3 +51,8 @@ a {
 .descrizione-foto {
     font-size: 12px;
 }
+
+/*lista*/
+ul {
+    padding-left: 20px;
+}
